@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=trangvu801&label=Profile%20views&color=0e75b6&style=flat" alt="trangvu801" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=trangvu801" alt="trangvu801" /></a> </p>
-
 - 🔭 I’m currently working on **D-Pool (Dickinson College Carpool platform)**
 
 - 🌱 I’m currently learning **Economic and Computer Science**
@@ -24,5 +22,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=trangvu801&show_icons=true&locale=en&layout=compact" alt="trangvu801" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=trangvu801&show_icons=true&locale=en" alt="trangvu801" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=trangvu801&" alt="trangvu801" /></p>
