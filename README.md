@@ -1,5 +1,8 @@
-<h1 align="center">Hi 👋, I'm Trang Vu</h1>
-<h3 align="center">An active student major in Economic and Computer Science at Dickinson College</h3>
+<h1 align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Martin+Mono&size=40&pause=998&color=000000&center=true&vCenter=true&width=435&lines=Hi+There!+%F0%9F%91%8B+;I'm+Trang+Vu;Xin+Ch%C3%A0o!+%F0%9F%91%8B+;T%C3%B4i+l%C3%A0+Trang+V%C5%A9" />
+</h1>
+
+<h3 align="center">An active student majoring in Economics and Computer Science at Dickinson College</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=trangvu801&label=Profile%20views&color=0e75b6&style=flat" alt="trangvu801" /> </p>
 
