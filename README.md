@@ -11,6 +11,7 @@
 - 🌱 I’m currently learning **Economic and Computer Science**
 
 - 📫 How to reach me **vuthutrang801@gmail.com**
+- Check out my website https://trangvu801.github.io/TrangVu-Portfolio/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
