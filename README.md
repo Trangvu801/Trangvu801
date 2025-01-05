@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=trangvu801&label=Profile%20views&color=0e75b6&style=flat" alt="trangvu801" /> </p>
 
-- 🔭 I’m currently working on **D-Pool (Dickinson College Carpool platform)**
+- 🔭 I’m currently looking for jobs: **Front-End developer, Project Manager.**
 
 - 🌱 I’m currently learning **Economic and Computer Science**
 
